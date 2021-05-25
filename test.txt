@@ -1,3 +1,6 @@
 commit1 
 commit3
 commit2
+
+squash2
+
