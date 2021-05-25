@@ -3,3 +3,4 @@ commit3
 commit2
 new branch added feature
 squash1
+squash2
