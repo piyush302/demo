@@ -4,3 +4,4 @@ commit2
 new branch added feature
 squash1
 squash2
+squash3
